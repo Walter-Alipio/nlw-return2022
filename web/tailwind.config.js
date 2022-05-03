@@ -5,6 +5,7 @@ module.exports = {
             colors: {
                 brand: {
                     500: "#8257e6",
+                    400: "#996DFF",
                 },
             },
         },
