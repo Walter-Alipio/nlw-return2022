@@ -49,7 +49,7 @@ Object.entries(feedbackTypes)
 
 key={...} atributo do React para identificar exatamente qual elemento está sendo renderizado em tela.
 
-O atributo onClick="" espera uma função, como setFeedbackType() precisa ser executado par apegar a key, envolvemos ele em uma arrowFunction, assim, passamos para onClick uma função que quando cliclado o botão, dispara o setFeedBackType
+O atributo onClick="" espera uma função, como setFeedbackType() precisa ser executado para pegar a key, envolvemos ele em uma arrowFunction, assim, passamos para onClick uma função que quando cliclado o botão, dispara o setFeedBackType
     onClick={()=> setFeedbackType(key)}
 */
 
