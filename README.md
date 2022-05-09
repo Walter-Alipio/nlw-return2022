@@ -16,7 +16,7 @@
 
 #### FeedGet - app de feedback desenvolvido na nlw-return2022 RocketSeat
 
-<p>Um widget de feedback para ser integrado a diferentes aplicações com opções de reportar um problema, dar ideia e outros. Desenvolvido em três frontes, Front-end com React e Tailwind, Back-end com Node.js, express, prisma e SQLlight, Mobile com React-Native</p>
+<p>Um widget de feedback para ser integrado a diferentes aplicações com opções de reportar um problema, dar ideia e outros. Desenvolvido em três frontes, Front-end com React e Tailwind, Back-end com Node.js, express, prisma e SQLlite, Mobile com React-Native</p>
 <p>Com esse app, é possível tirar um screenshot e enviar junto a mensagem de texto.</p>
 <p>Os dados serão salvos em um banco e enviados por email ao responsável pelo sistema.</p>
 
